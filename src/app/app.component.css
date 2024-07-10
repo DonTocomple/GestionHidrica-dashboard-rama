@@ -1,0 +1,7 @@
+/* app.component.css */
+
+/* Asegúrate de que el contenedor ocupe el espacio disponible */
+.container {
+    min-height: calc(100vh - 56px); /* Ajusta el valor según la altura de tu navbar y footer */
+  }
+  
